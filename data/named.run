@@ -1,0 +1,575 @@
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+managed-keys-zone: Unable to fetch DNSKEY set '.': timed out
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+_default: sending trust-anchor-telemetry query '_ta-4f66/NULL'
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+  validating enfvlmademv9n7t1scg23msorvqrgv0r.seas.harvard.edu/NSEC3: no valid signature found
+validating mirrors.seas.harvard.edu/A: no valid signature found
+  validating seas.harvard.edu/SOA: no valid signature found
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 129
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 130
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 131
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 132
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 133
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 134
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 135
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 136
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 137
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.0.10.in-addr.arpa/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 138
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 8.192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 139
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 140
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 141
+zone 0.in-addr.arpa/IN: loaded serial 0
+reverse-pvt.amit.com:15: ignoring out-of-zone data (8)
+reverse-pvt.amit.com:16: ignoring out-of-zone data (4)
+reverse-pvt.amit.com:17: ignoring out-of-zone data (6)
+reverse-pvt.amit.com:18: ignoring out-of-zone data (5)
+zone 0.192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone amit.com/IN: loaded serial 2011071001
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 142
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 0.192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 143
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: loaded serial 144
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 145
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 146
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+resolver priming query complete
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 147
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone amit.com/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 148
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 149
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 150
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 151
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 152
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 153
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+zone localhost/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 154
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone amit.com/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+zone localhost.localdomain/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+error writing NTA file for view '_default': permission denied
+error writing NTA file for view '_bind': permission denied
+no longer listening on 127.0.0.1#53
+no longer listening on 10.10.192.8#53
+exiting
+managed-keys-zone: journal file is out of date: removing journal file
+managed-keys-zone: loaded serial 155
+zone 0.in-addr.arpa/IN: loaded serial 0
+zone 128.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone 192.10.10.in-addr.arpa/IN: loaded serial 2011071001
+zone localhost/IN: loaded serial 0
+zone 1.0.0.127.in-addr.arpa/IN: loaded serial 0
+zone amit.com/IN: loaded serial 2011071001
+zone localhost.localdomain/IN: loaded serial 0
+zone 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa/IN: loaded serial 0
+all zones loaded
+running
+managed-keys-zone: Key 20326 for zone . acceptance timer complete: key now trusted
+resolver priming query complete
